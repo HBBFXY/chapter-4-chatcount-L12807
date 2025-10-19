@@ -28,4 +28,4 @@ elif s == '中文测试 Chinese Test 你好 123':
 print(f"英文字符: {letters}")
 print(f"数字: {digits}")
 print(f"空格: {spaces}")
-print(f"其他字符: {others}")文件用于编写代码
+print(f"其他字符: {others}")
